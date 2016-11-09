@@ -1,4 +1,4 @@
-#Please Make Changes To The -Update- Branch As Others Will Not Be Accepted And WILL Be Deleted Thank You Collaborators
+#When Collaborators Make Changes Be Sure That I Have To Accept It
 
 #My Online Project http://codark.com
 
